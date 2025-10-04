@@ -1,0 +1,2 @@
+# AMQEX3.2
+V3.2 Route AMQEW W/ IST/SCW/BLSS
